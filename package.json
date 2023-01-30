@@ -1,0 +1,22 @@
+{
+  "name": "graphql-server-signup_page",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.3.2",
+    "@prisma/client": "^4.9.0",
+    "graphql": "^16.6.0"
+  },
+  "devDependencies": {
+    "prisma": "^4.9.0"
+  }
+}
